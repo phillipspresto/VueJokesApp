@@ -1,5 +1,5 @@
 <template>
-<div class="joke">
+<div class="main">
     <joke />
     <footer />
 </div>
